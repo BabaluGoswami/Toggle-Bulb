@@ -12,7 +12,8 @@ HTML5
 CSS3
 JavaScript (DOM Manipulation)     
                                                                                               
-                                                                                                                 🔗 Live Demo:-
+
+🔗 Live Demo:-
 (https://babalugoswami.github.io/Toggle-Bulb/)
 
 📚 Learning Outcomes
